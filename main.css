@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
+
+
+.container {
+    align-self: center;
+    background-color: #fff;
+    height: auto;
+    width: auto;
+    display: flex;
+    /* flex-flow: wrap; */
+    justify-content: center;
+    flex-direction: column;
+}
